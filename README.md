@@ -1,5 +1,7 @@
 ## Links
+### This dataset has been visualized here in Tableau:
 Visualization: https://public.tableau.com/app/profile/david.zachary.malonjao/viz/BoxOfficeData2000-2024/Intro?publish=yes
+### This is my python datacleaning process:
 Code: https://colab.research.google.com/drive/1OkhX7DrR5B5JMxOW0lD0ng5_m_fR6isZ?usp=sharing
 
 
