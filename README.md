@@ -64,7 +64,7 @@ Which genres, markets, and characteristics are associated with stronger box-offi
 
 **Source:** Kaggle — Movies Box Office Dataset (2000–2024)
 
-[Kaggle dataset](YOUR_KAGGLE_LINK)
+[Kaggle dataset](https://www.kaggle.com/datasets/aditya126/movies-box-office-dataset-2000-2024)
 
 The dataset contains information including movie release year, genre, production country, original language, domestic and foreign gross, worldwide gross, audience ratings, reviewer counts, and ranking.
 
