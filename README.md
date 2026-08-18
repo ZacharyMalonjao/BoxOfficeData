@@ -285,3 +285,12 @@ The analysis found that the global box office is heavily influenced by internati
 More broadly, the project demonstrates how **data cleaning, exploratory analysis, visualization, and storytelling can be combined to turn a large dataset into actionable insights**.
 
 The final Tableau dashboard provides an interactive way to explore these trends and examine how the movie industry has changed between 2000 and 2024.
+
+---
+# Author
+
+**David Zachary Malonjao**
+
+IT Student | Data Analytics & Business Intelligence
+
+**Skills demonstrated**: Python · Pandas · Data Cleaning · Exploratory Data Analysis · Data Visualization · Tableau · Dashboard Design · Data Storytelling · Box Office Analytics
