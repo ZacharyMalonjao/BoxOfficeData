@@ -264,7 +264,7 @@ Studios and analysts should consider both **commercial metrics and audience rece
 
 # Project Structure
 
-## File Structure
+
 
 ```
 BoxOfficeData/
@@ -273,8 +273,6 @@ BoxOfficeData/
 └── README.md                     # Project overview and documentation
 ```
 
-
-*Project structure may vary depending on the final repository organization.*
 
 ---
 
