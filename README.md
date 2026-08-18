@@ -264,19 +264,15 @@ Studios and analysts should consider both **commercial metrics and audience rece
 
 # Project Structure
 
-```text
-BoxOfficeData/
-│
-├── datasets/
-│   ├── dirty_data.csv
-│   └── clean_box_office_data.csv
-│
-├── notebooks/
-│   └── data_cleaning.ipynb
-│
-├── README.md
-└── ...
+## File Structure
+
 ```
+BoxOfficeData/
+├── datasets/                     # cleaned box office data file
+├── BoxOfficeDataCleaning.ipynb   # Data cleaning notebook (Colab)
+└── README.md                     # Project overview and documentation
+```
+
 
 *Project structure may vary depending on the final repository organization.*
 
