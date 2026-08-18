@@ -28,7 +28,7 @@ The final Tableau dashboard presents the analysis through several interactive vi
 * Changes in the box office over time
 
 **Tableau Public:**
-[View the interactive dashboard](YOUR_TABLEAU_PUBLIC_LINK)
+[View the interactive dashboard](https://public.tableau.com/app/profile/david.zachary.malonjao/viz/BoxOfficeData2000-2024/Intro?publish=yes)
 
 > **Dashboard:** Box Office Data 2000–2024
 
